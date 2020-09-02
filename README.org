@@ -159,3 +159,11 @@
 38. Engager l'État dans la mise en place d'un système de partage des
     données sécurisé, distribué, avec des niveaux de partage selon les
     données.
+
+39. Flécher des fonds publics (par exemple du plan de relance) vers le
+    développement de logiciels libres "d'intérêt public ou
+    industriel".  Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces suggestions]].
+
+40. [Quid du côté des collectivités territoriales?]  Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces suggestions]].
+
+
