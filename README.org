@@ -90,3 +90,5 @@
   financées si contrat dans le public pendant une période." (via
   [[https://twitter.com/paulsouche/status/1286208386443485190][Twitter]]).
 
+- Publier le détail des budgets des projets informatiques du secteur
+  public - par exemple https://mon-entreprise.fr/budget (via [[https://twitter.com/maeool/status/1301092442607943680][Twitter]]).
