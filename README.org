@@ -166,4 +166,10 @@
 
 40. [Quid du côté des collectivités territoriales?]  Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces suggestions]].
 
+41. Créer un espace dédié au « code moche », dans l'ESR et/ou dans
+    l'administration publique en général : un endroit où publieraient
+    ceux qui souhaiteraient trouver des relecteurs sans être jugés sur
+    la qualité du code qu'ils écrivent, avec une revue bienveillante
+    par les pairs.
+
 
