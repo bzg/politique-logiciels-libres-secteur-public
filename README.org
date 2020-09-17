@@ -178,4 +178,17 @@
     serait une API permettant d'envoyer des fichiers en =.docx= pour
     recevoir en retour une version en =.odt= (voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/3][cette suggestion]].)
 
+43. « [Créer] trois nouveaux corps de fonctionnaires. Un corps de
+    catégorie B (pour les techniciens informatique), un corps de
+    catégorie A (pour les programmeurs) et un corps de catégorie A+
+    (pour le management). Ces corps appartiendraient à la fonction
+    publique d'État et seraient rattachés à un niveau
+    interministériel, à la DINUM par exemple. » (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
 
+44. Contribuer à la maintenance de projets libres utilisés dans le
+    secteur public, de trois façons : (1) détacher des agents du
+    secteur public à la maintenance d'un projet open source ; (2)
+    employer le programmeur du logiciel libre ; (3) un modèle de
+    subvention faisant secteur public et acteurs du logiciel libre
+    pour financer des développeurs travaillant sur des projets libres
+    utilisés dans le secteur public.  (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
