@@ -172,4 +172,10 @@
     la qualité du code qu'ils écrivent, avec une revue bienveillante
     par les pairs.
 
+42. Créer des services en ligne renforçant l'utilisation des formats
+    recommandés par le RGI, notamment en aidant à la conversion de
+    fichiers d'un format vers un autre.  Un exemple d'un tel service
+    serait une API permettant d'envoyer des fichiers en =.docx= pour
+    recevoir en retour une version en =.odt= (voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/3][cette suggestion]].)
+
 
