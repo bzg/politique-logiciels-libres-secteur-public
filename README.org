@@ -198,3 +198,10 @@
     universités et instituts de recherche de détacher des chercheurs
     appliqués dans l'administration pour expérimenter une innovation
     (voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694267053][ce commentaire]]).
+
+46. Trouver les bonnes façons d'éviter que les bons personnels
+    techniques soient promus en mauvais manager : soit en donnant plus
+    de perspectives de promotion aux personnels techniques en tant que
+    tels, soit renforçant les formations au management.  Le modèle
+    des entreprises techn des États-Unis peut inspirer. (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694390022][ce
+    commentaire]].)
