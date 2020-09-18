@@ -192,3 +192,9 @@
     subvention faisant secteur public et acteurs du logiciel libre
     pour financer des développeurs travaillant sur des projets libres
     utilisés dans le secteur public.  (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
+
+45. Créer des passerelles entre la recherche publique appliquée (en
+    informatique) et l'administration, par exemple en permettant à
+    universités et instituts de recherche de détacher des chercheurs
+    appliqués dans l'administration pour expérimenter une innovation
+    (voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694267053][ce commentaire]]).
