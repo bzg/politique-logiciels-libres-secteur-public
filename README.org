@@ -27,7 +27,7 @@
    enjeux du logiciel libre.
 
 8. Encourager le secteur de la l'enseignement supérieur et recherche à
-   détecter et soutenir les futures « pépites » libres développées sur
+   détecter et soutenir les futures « pépites » libres développées sur
    fonds publics (e.g. [[https://scikit-learn.org][scikit-learn]]).
 
 9. Mettre en place un portail unique pour toutes les publications liées
@@ -38,7 +38,7 @@
 
 11. "Financer le déploiement, la maintenance et les évolutions
     d'instances de frama* et autres services libres au service de
-    l'administration et des citoyens, notamment outils « transverses »
+    l'administration et des citoyens, notamment outils « transverses »
     (ex: matomo, sentry, captchas, nextcloud...) Et sensibiliser à
     l'utilisation de ces services." ([[https://twitter.com/revolunet/status/1284129025074626560][via Twitter]])
 
@@ -104,7 +104,7 @@
     pour la consolidation des briques open source essentielles.
 
 28. Développer en open sources des applications clefs pour la
-    souveraineté des SI du secteur public :
+    souveraineté des SI du secteur public :
 
     - authentification à 2 facteurs
     - captcha (aller au-delà de [[https://github.com/etalab/tchatcha][tchatcha]])
@@ -135,7 +135,7 @@
     description claire des différences entre les versions.
 
 34. Initier les composants cœur de l’Etat plateforme avec des licences
-    avec obligation de réciprocité pour éviter toute enclosure future :
+    avec obligation de réciprocité pour éviter toute enclosure future :
     - Prise de rendez-vous
     - Application de notification de l’usager
     - Outil de preuve de géolocalisation pour différents usages
@@ -147,7 +147,7 @@
     situations d’urgence.
 
 36. Publication des algorithmes cœur utilisés par l’Etat pour
-    permettre de les améliorer : quel est l’algorithme de matching
+    permettre de les améliorer : quel est l’algorithme de matching
     d’empreintes digitales ? de reconnaissance faciale ? de
     reconnaissance des véhicules ? de lecture automatique de plaques ?
     etc.
@@ -166,8 +166,8 @@
 
 40. [Quid du côté des collectivités territoriales?]  Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces suggestions]].
 
-41. Créer un espace dédié au « code moche », dans l'ESR et/ou dans
-    l'administration publique en général : un endroit où publieraient
+41. Créer un espace dédié au « code moche », dans l'ESR et/ou dans
+    l'administration publique en général : un endroit où publieraient
     ceux qui souhaiteraient trouver des relecteurs sans être jugés sur
     la qualité du code qu'ils écrivent, avec une revue bienveillante
     par les pairs.
@@ -178,17 +178,17 @@
     serait une API permettant d'envoyer des fichiers en =.docx= pour
     recevoir en retour une version en =.odt= (voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/3][cette suggestion]].)
 
-43. « [Créer] trois nouveaux corps de fonctionnaires. Un corps de
+43. « [Créer] trois nouveaux corps de fonctionnaires. Un corps de
     catégorie B (pour les techniciens informatique), un corps de
     catégorie A (pour les programmeurs) et un corps de catégorie A+
     (pour le management). Ces corps appartiendraient à la fonction
     publique d'État et seraient rattachés à un niveau
-    interministériel, à la DINUM par exemple. » (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
+    interministériel, à la DINUM par exemple. » (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
 
 44. Contribuer à la maintenance de projets libres utilisés dans le
-    secteur public, de trois façons : (1) détacher des agents du
-    secteur public à la maintenance d'un projet open source ; (2)
-    employer le programmeur du logiciel libre ; (3) un modèle de
+    secteur public, de trois façons : (1) détacher des agents du
+    secteur public à la maintenance d'un projet open source ; (2)
+    employer le programmeur du logiciel libre ; (3) un modèle de
     subvention faisant secteur public et acteurs du logiciel libre
     pour financer des développeurs travaillant sur des projets libres
     utilisés dans le secteur public.  (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
@@ -196,12 +196,14 @@
 45. Créer des passerelles entre la recherche publique appliquée (en
     informatique) et l'administration, par exemple en permettant à
     universités et instituts de recherche de détacher des chercheurs
-    appliqués dans l'administration pour expérimenter une innovation
-    (voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694267053][ce commentaire]]).
+    appliqués dans l'administration pour expérimenter une innovation.
+    (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694267053][ce commentaire]]).
 
 46. Trouver les bonnes façons d'éviter que les bons personnels
-    techniques soient promus en mauvais manager : soit en donnant plus
+    techniques soient promus en mauvais manager : soit en donnant plus
     de perspectives de promotion aux personnels techniques en tant que
     tels, soit renforçant les formations au management.  Le modèle
     des entreprises techn des États-Unis peut inspirer. (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694390022][ce
     commentaire]].)
+
+47. Financer des licornes du logiciel libre.
