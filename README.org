@@ -207,3 +207,13 @@
     commentaire]].)
 
 47. Financer des licornes du logiciel libre.
+
+48. Fournir des services numériques transverses à base de solutions
+    open source et visant soit les agents publics (comme Tchap et
+    Webconf), soit les métiers et leurs besoins techniques (comme un
+    service de forge centralisée, un sentry, un CDN, un service
+    d'envoi de mails et de textos, etc.
+
+49. Recommander d'ajouter dans les clauses de CCTP l'impératif de
+    suivre les standards de bonnes pratiques de développement issus de
+    l'open source, notamment en matière de versionnement, de sécurité.
