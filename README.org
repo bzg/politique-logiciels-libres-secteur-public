@@ -212,8 +212,10 @@
     open source et visant soit les agents publics (comme Tchap et
     Webconf), soit les métiers et leurs besoins techniques (comme un
     service de forge centralisée, un sentry, un CDN, un service
-    d'envoi de mails et de textos, etc.
+    d'envoi de mails et de textos, etc. (Proposition de
+    [[https://github.com/revolunet][J. Bouquillon]].)
 
 49. Recommander d'ajouter dans les clauses de CCTP l'impératif de
     suivre les standards de bonnes pratiques de développement issus de
     l'open source, notamment en matière de versionnement, de sécurité.
+    (Proposition de [[https://github.com/revolunet][J. Bouquillon]].)
