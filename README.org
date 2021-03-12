@@ -253,3 +253,6 @@
 58. Réfléchir à de réels moyens pour que l'ouverture des données et
     des codes sources, ne soit pas un aspect optionnel, en bonus, la
     plupart du temps bénévole, des projets.
+
+59. Mettre en avant les contributions faites dans l'administration aux
+    logiciels libres.
