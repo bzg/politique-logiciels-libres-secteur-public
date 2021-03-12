@@ -256,3 +256,7 @@
 
 59. Mettre en avant les contributions faites dans l'administration aux
     logiciels libres.
+
+60. Favoriser la mise en relation de clients publics d'une solution
+    libre sans que cela nuise au modèle commercial d'un éditeur qui
+    produit le code.
