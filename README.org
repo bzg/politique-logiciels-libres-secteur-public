@@ -219,3 +219,37 @@
     suivre les standards de bonnes pratiques de développement issus de
     l'open source, notamment en matière de versionnement, de sécurité.
     (Proposition de [[https://github.com/revolunet][J. Bouquillon]].)
+
+50. Démystifier l'ouverture de code source avec des ressources simples
+    et non techniques, pour les décideurs. Car il y a encore beaucoup
+    de crainte de perdre le contrôle de leur projet informatique.
+
+51. Partager des ressources juridiques simples sur les enjeux liées à
+    l'ouverture des données et des codes sources.
+
+52. Fournir des ressources techniques et juridiques simples car la
+    plupart des structures ne savent pas ce qu'elles doivent ou
+    peuvent inclure dans leurs marchés publiques pour garantir
+    l'ouverture des données et codes sources des solutions
+    développées.
+
+53. Accompagner et favoriser la maintenance technique et communautaire
+    des projets libres des administrations.
+
+54. Valoriser les projets réussis.
+
+55. Encourager la collaboration entre les structures et les
+    territoires, plutôt que leur concurrence.
+
+56. Encourager et valoriser le fait de collaborer entre
+    administrations, plus que d'être "la première administration
+    à...", "la seule administration à...".
+
+57. Maintenir et renforcer des compétences techniques internes pour
+    pouvoir mener des projets de moyen et long terme dans les
+    administrations, ou au moins avec des personnes techniques
+    capables de suivre et encadrer des prestataires.
+
+58. Réfléchir à de réels moyens pour que l'ouverture des données et
+    des codes sources, ne soit pas un aspect optionnel, en bonus, la
+    plupart du temps bénévole, des projets.
