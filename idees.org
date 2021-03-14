@@ -1,0 +1,258 @@
+1. Construire un positionnement et un discours clairs sur le rapport
+   entre l'ouverture des codes sources publics et la souveraineté
+   numérique.
+
+2. En s'inspirant du réseau des Administrateurs Ministériels de Données
+   (AMD), construire un réseau interministériel de référents logiciels
+   libres dans les ministères.
+
+3. Mettre en place un baromètre de l'open source pour l'administration.
+
+4. Aider les Société d'Accélération de Transfert de Technologies ([[https://www.satt.fr/societe-acceleration-transfert-technologies/][SATT]])
+   à mieux comprendre les modèles économiques qui peuvent être proposés
+   autour de logiciels libres.
+
+5. Mettre en place une politique industrielle venant en soutien aux
+   entreprises du logiciels libres en France.
+
+6. Mettre en place la priorité à l'utilisation de logiciels libres dans
+   le secteur public français, comme c'est le cas en Italie.
+
+7. Soutenir la montée en compétence des services juridiques et achat
+   des administrations publiques pour qu'elles appréhendent mieux les
+   enjeux du logiciel libre.
+
+8. Encourager le secteur de la l'enseignement supérieur et recherche à
+   détecter et soutenir les futures « pépites » libres développées sur
+   fonds publics (e.g. [[https://scikit-learn.org][scikit-learn]]).
+
+9. Mettre en place un portail unique pour toutes les publications liées
+   à l'open source dans la sphère publique.
+
+10. Tenir une liste à jour des organismes publics ayant une politique
+    d'utilisation et de publication de logiciels libres.
+
+11. "Financer le déploiement, la maintenance et les évolutions
+    d'instances de frama* et autres services libres au service de
+    l'administration et des citoyens, notamment outils « transverses »
+    (ex: matomo, sentry, captchas, nextcloud...) Et sensibiliser à
+    l'utilisation de ces services." ([[https://twitter.com/revolunet/status/1284129025074626560][via Twitter]])
+
+12. "Monter une équipe degafamisation à la DINUM pour éradiquer les
+    trackers dans les outils de l'état, former et sensibiliser les
+    équipes internes aux alernatives libres" ([[https://twitter.com/revolunet/status/1284129545357086722][via Twitter]])
+
+13. Organiser des formations professionnelles autour des logiciels
+    libres ([[https://twitter.com/sebtouze/status/1284383159036059649][ce tweet]]) et notamment "former les DSI des établissements
+    publics sur les logiciels libres (qu'ils n'en aient pas peur)"
+    (cf. [[https://twitter.com/thom_karum/status/1284189815483899911][ce tweet]]).
+
+14. "Valoriser les exemples réussis, mettre en réseau, partager les
+    bonnes pratiques et faire des guides simples pour rassurer sur les
+    aspects juridiques et les modes de gouvernance." ([[https://twitter.com/cmonchicourt/status/1284833611502571522][via Twitter]])
+
+15. "Faire en sorte que chacune des applications developpées avec des
+    fonds publics soit pensée comme un outil libre (documenté,
+    réutilisable, reinstallable, partiellement générique) au lieu d’une
+    simple ouverture du code." ([[https://twitter.com/jparis_py/status/1284606997573390339][via Twitter]])
+
+16. "Une infra numérique libre et décentralisée ?" ([[https://twitter.com/jparis_py/status/1284606997573390339][via Twitter]])
+
+17. "Montrer et démontrer les avantages et bénéfices du code source
+    libre et de la gouvernance ouverte" ([[https://twitter.com/nyconyco/status/1284115111263850501][via Twitter]])
+
+18. Acculturer les ESN à l'open source pour les inciter à répondre aux
+    exigences de l'administration lorsqu'elle souhaite éviter la
+    dépendance aux GAFAM (inspiré de [[https://twitter.com/pgayat/status/1284437480234770432][ce tweet]]).
+
+19. Collecter et publier des témoignages d'utilisations et transitions
+    réussies (inspiré de [[https://twitter.com/drobaux/status/1284451842768896004][ce tweet]]).
+
+20. Publier de la documentation (notamment vidéo) autour des logiciels
+    libres (inspiré de [[https://twitter.com/drobaux/status/1284451842768896004][ce tweet]]).
+
+21. "Organiser des install parties [dans l'administration]" (via
+    [[https://twitter.com/looking4poetry/status/1284118404950110208][Twitter]])
+
+22. "choisir des early-adopters avec qui on maintiendra une relation
+    privilégiée pour continuer d'évangéliser en interne" (via [[https://twitter.com/looking4poetry/status/1284118404950110208][Twitter]])
+
+23. "Imposer que toutes les applications professionnelles soient au
+    moins compatibles tout système d'exploitation (à défaut d'être
+    libre, elles pourraient tourner avec GNU/Linux)" (via [[https://twitter.com/thom_karum/status/1284190110783864833][Twitter]]).
+
+24. "Créer une école d'état pour développeurs comme cela se fait dans
+    d'autres métiers (agriculture, architecture) avec des études
+    financées si contrat dans le public pendant une période." (via
+    [[https://twitter.com/paulsouche/status/1286208386443485190][Twitter]]).
+
+25. Publier le détail des budgets des projets informatiques du secteur
+    public - par exemple https://mon-entreprise.fr/budget (via [[https://twitter.com/maeool/status/1301092442607943680][Twitter]]).
+
+26. Encourager la prise de participation de l'État dans des
+    entreprises clefs du logiciel libre pour assurer l'indépendance
+    des SI du secteur public.
+
+27. Encourager la participation de l'État à des organisations
+    internationales comme la [[https://www.linuxfoundation.org/][Linux Foundation]] afin d'avoir des droits
+    de vote sur des décisions potentiellement impactantes pour les SI
+    du secteur public.  Voir aussi la [[https://www.coreinfrastructure.org/][Core Infrastructure Initiative]]
+    pour la consolidation des briques open source essentielles.
+
+28. Développer en open sources des applications clefs pour la
+    souveraineté des SI du secteur public :
+
+    - authentification à 2 facteurs
+    - captcha (aller au-delà de [[https://github.com/etalab/tchatcha][tchatcha]])
+
+29. Favoriser l'indépendance vis-à-vis des GAFAM en utilisant des
+    solutions libres pour des secteurs clefs comme l'analytics (via
+    une utilisation généralisée de Matomo, par ex., pour tout le
+    secteur public.)
+
+30. Déployer un "store" à la F-Droid pour toutes les applications du
+    secteur public, de façon à ne pas dépendre de Google Play ou de
+    l'AppStore pour leur distribution.  [Voir sur ce sujet la question
+    de la distribution de [[https://gitlab.inria.fr/stopcovid19/stopcovid-android/-/issues/20][StopCovid]].]
+
+31. Avoir un outil unique (sous licence libre) pour faire des retours
+    de bug sur tous les sites du secteur public.  Retours publics ou
+    privés selon les besoins.
+
+32. Permettre au citoyen de faire tourner n'importe quel code source
+    partagé par une administration.  Par exemple, si le ministère des
+    finances partage le code source des impôts, il faudrait un bouton
+    pour pouvoir déployer ce code source facilement et permettre au
+    citoyen de le tester sur une instance à part.
+
+33. Généraliser l'utilisation et la publication de /versions/ sur tous
+    les applicatifs développés dans le secteur public, et que cette
+    information soit disponible pour le citoyen.  Le tout avec une
+    description claire des différences entre les versions.
+
+34. Initier les composants cœur de l’Etat plateforme avec des licences
+    avec obligation de réciprocité pour éviter toute enclosure future :
+    - Prise de rendez-vous
+    - Application de notification de l’usager
+    - Outil de preuve de géolocalisation pour différents usages
+
+35. Publication du code source des API de l’Etat sur des systèmes
+    critiques (voir api.gouv.fr ou le code n’est pas disponible).
+    Permettre une concurrence des API sur le speech2text par exemple
+    et les services qui peuvent y être associés notamment dans les
+    situations d’urgence.
+
+36. Publication des algorithmes cœur utilisés par l’Etat pour
+    permettre de les améliorer : quel est l’algorithme de matching
+    d’empreintes digitales ? de reconnaissance faciale ? de
+    reconnaissance des véhicules ? de lecture automatique de plaques ?
+    etc.
+
+37. Tous les systèmes devant interragir avec la société civile
+    (associations) ou les collectivités territoriales, doivent être
+    open-source pour permettre une collaboration.
+
+38. Engager l'État dans la mise en place d'un système de partage des
+    données sécurisé, distribué, avec des niveaux de partage selon les
+    données.
+
+39. Flécher des fonds publics (par exemple du plan de relance) vers le
+    développement de logiciels libres "d'intérêt public ou
+    industriel".  Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces suggestions]].
+
+40. [Quid du côté des collectivités territoriales?]  Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces suggestions]].
+
+41. Créer un espace dédié au « code moche », dans l'ESR et/ou dans
+    l'administration publique en général : un endroit où publieraient
+    ceux qui souhaiteraient trouver des relecteurs sans être jugés sur
+    la qualité du code qu'ils écrivent, avec une revue bienveillante
+    par les pairs.
+
+42. Créer des services en ligne renforçant l'utilisation des formats
+    recommandés par le RGI, notamment en aidant à la conversion de
+    fichiers d'un format vers un autre.  Un exemple d'un tel service
+    serait une API permettant d'envoyer des fichiers en =.docx= pour
+    recevoir en retour une version en =.odt= (voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/3][cette suggestion]].)
+
+43. « [Créer] trois nouveaux corps de fonctionnaires. Un corps de
+    catégorie B (pour les techniciens informatique), un corps de
+    catégorie A (pour les programmeurs) et un corps de catégorie A+
+    (pour le management). Ces corps appartiendraient à la fonction
+    publique d'État et seraient rattachés à un niveau
+    interministériel, à la DINUM par exemple. » (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
+
+44. Contribuer à la maintenance de projets libres utilisés dans le
+    secteur public, de trois façons : (1) détacher des agents du
+    secteur public à la maintenance d'un projet open source ; (2)
+    employer le programmeur du logiciel libre ; (3) un modèle de
+    subvention faisant secteur public et acteurs du logiciel libre
+    pour financer des développeurs travaillant sur des projets libres
+    utilisés dans le secteur public.  (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
+
+45. Créer des passerelles entre la recherche publique appliquée (en
+    informatique) et l'administration, par exemple en permettant à
+    universités et instituts de recherche de détacher des chercheurs
+    appliqués dans l'administration pour expérimenter une innovation.
+    (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694267053][ce commentaire]]).
+
+46. Trouver les bonnes façons d'éviter que les bons personnels
+    techniques soient promus en mauvais manager : soit en donnant plus
+    de perspectives de promotion aux personnels techniques en tant que
+    tels, soit renforçant les formations au management.  Le modèle
+    des entreprises techn des États-Unis peut inspirer. (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694390022][ce
+    commentaire]].)
+
+47. Financer des licornes du logiciel libre.
+
+48. Fournir des services numériques transverses à base de solutions
+    open source et visant soit les agents publics (comme Tchap et
+    Webconf), soit les métiers et leurs besoins techniques (comme un
+    service de forge centralisée, un sentry, un CDN, un service
+    d'envoi de mails et de textos, etc. (Proposition de
+    [[https://github.com/revolunet][J. Bouquillon]].)
+
+49. Recommander d'ajouter dans les clauses de CCTP l'impératif de
+    suivre les standards de bonnes pratiques de développement issus de
+    l'open source, notamment en matière de versionnement, de sécurité.
+    (Proposition de [[https://github.com/revolunet][J. Bouquillon]].)
+
+50. Démystifier l'ouverture de code source avec des ressources simples
+    et non techniques, pour les décideurs. Car il y a encore beaucoup
+    de crainte de perdre le contrôle de leur projet informatique.
+
+51. Partager des ressources juridiques simples sur les enjeux liées à
+    l'ouverture des données et des codes sources.
+
+52. Fournir des ressources techniques et juridiques simples car la
+    plupart des structures ne savent pas ce qu'elles doivent ou
+    peuvent inclure dans leurs marchés publiques pour garantir
+    l'ouverture des données et codes sources des solutions
+    développées.
+
+53. Accompagner et favoriser la maintenance technique et communautaire
+    des projets libres des administrations.
+
+54. Valoriser les projets réussis.
+
+55. Encourager la collaboration entre les structures et les
+    territoires, plutôt que leur concurrence.
+
+56. Encourager et valoriser le fait de collaborer entre
+    administrations, plus que d'être "la première administration
+    à...", "la seule administration à...".
+
+57. Maintenir et renforcer des compétences techniques internes pour
+    pouvoir mener des projets de moyen et long terme dans les
+    administrations, ou au moins avec des personnes techniques
+    capables de suivre et encadrer des prestataires.
+
+58. Réfléchir à de réels moyens pour que l'ouverture des données et
+    des codes sources, ne soit pas un aspect optionnel, en bonus, la
+    plupart du temps bénévole, des projets.
+
+59. Mettre en avant les contributions faites dans l'administration aux
+    logiciels libres.
+
+60. Favoriser la mise en relation de clients publics d'une solution
+    libre sans que cela nuise au modèle commercial d'un éditeur qui
+    produit le code.
