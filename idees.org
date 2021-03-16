@@ -256,3 +256,22 @@
 60. Favoriser la mise en relation de clients publics d'une solution
     libre sans que cela nuise au modèle commercial d'un éditeur qui
     produit le code.
+
+61. Encourager les « clubs utilisateurs » auxquels adhèreraient des
+    administrations pour peser sur la feuille de route d'un projet, ou
+    bien une redevance avec des remontées des utilisateurs (publics)
+    qui s'intègrent aux discussions sur les feuilles de route.
+
+62. Soutenir les événements et la communication dans l'écosystème.
+
+63. Arriver à mettre en contact les décideurs de terrain et ceux qui
+    portent le sujet du libre politiquement à un niveau plus
+    stratégique.
+
+64. Développer un discours sur le logiciel libre qui ne prête pas le
+    flanc à l'accusation de « discours idéologique ».  Décliner les
+    enjeux du « libre » en de multiples valeurs.
+
+65. Faire savoir aux entreprises qu'elles peuvent dire à leur client
+    du secteur public qu'ils peuvent s'appuyer sur la DINUM pour être
+    accompagnés pour faire remonter des contributions libres.
