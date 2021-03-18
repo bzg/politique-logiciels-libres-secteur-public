@@ -275,3 +275,9 @@
 65. Faire savoir aux entreprises qu'elles peuvent dire à leur client
     du secteur public qu'ils peuvent s'appuyer sur la DINUM pour être
     accompagnés pour faire remonter des contributions libres.
+
+66. Mettre en place un outil de remontée d'idées (cf. [[https://ideas.digitalocean.com][celui-ci]]) pour
+    que les collectivités expriment leurs besoins sur des logiciels
+    libres, en attendant que d'autres puissent mutualiser - une façon
+    aussi de garder trace des idées non retenus lors de cet [[https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique][appel de
+    l'incubateur de l'ANCT]].
