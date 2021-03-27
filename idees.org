@@ -281,3 +281,9 @@
     libres, en attendant que d'autres puissent mutualiser - une façon
     aussi de garder trace des idées non retenus lors de cet [[https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique][appel de
     l'incubateur de l'ANCT]].
+
+67. Permettre de filtrer les marchés publics selon qu'ils font
+    référence ou non à des technologies libres.
+
+68. Permettre de filtrer les offres d'emploi du secteur public selon
+    qu'ils font référence ou non à des technologies libres.
