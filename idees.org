@@ -287,3 +287,8 @@
 
 68. Permettre de filtrer les offres d'emploi du secteur public selon
     qu'ils font référence ou non à des technologies libres.
+
+69. Monter une mission logiciels libres s'inspirant des différents
+    Open Source Program Office (voir [[https://github.com/todogroup/ospodefinition.org][définition]] provisoire).  Cette
+    mission pourrait s'appuyer sur un réseau interministériel de
+    missions ou équivalents.
