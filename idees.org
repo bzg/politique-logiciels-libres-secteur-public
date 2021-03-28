@@ -292,3 +292,41 @@
     Open Source Program Office (voir [[https://github.com/todogroup/ospodefinition.org][définition]] provisoire).  Cette
     mission pourrait s'appuyer sur un réseau interministériel de
     missions ou équivalents.
+
+70. S'inspirer de standards existants (https://digitalpublicgoods.net,
+    https://publiccode.net) pour promouvoir certains logiciels libres
+    de l'administrations au rang de communs.
+
+71. Monter un site permettant de récolter les besoins d'évolution de
+    logiciels libres utilisés dans l'administration.
+
+72. Monter une fondation permettant aux acteurs publics de financer en
+    commun des évolutions de logiciels libres.
+
+73. S'attaquer pour de vrai aux guides logiciels libres.
+
+74. Définir et mettre en place un baromètre évaluant la mise en oeuvre
+    des objectifs d'une mission logiciels libres dans les ministères.
+
+75. Mettre en place une variante de [[https://github.com/bzg/woof][woof]] pour publier, depuis une
+    liste de discussion privée, un flux  RSS à partir d'événements qui
+    sont annoncés sur la liste.
+
+76. Faire une agrégation de flux pour les « bonnes nouvelles » du
+    libre dans l'administration.
+
+77. Avancer sur un arbre décisionnel pour accompagner les porteurs de
+    projets dans la maturation vers les bonnes pratiques open source
+    (aka "floss-status").
+
+78. Permettre d'afficher les dépôts d'une ou plusieurs organisations à
+    partir d'un iframe de code.etalab.gouv.fr.
+
+79. sill.etalab.gouv.fr : se connecter et pouvoir faire une liste de
+    logiciels utilisés et la publier dans un iframe.
+
+80. Proposer des icones Github/Lab pour les niveaux d'ouverture
+    décrits dans https://guides.etalab.gouv.fr/logiciels/
+
+81. Comment intégrer les comptes personnels GitHub/Lab qui développent
+    du libre sur fonds publics dans code.etalab.gouv.fr ?
