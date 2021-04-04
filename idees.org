@@ -330,3 +330,9 @@
 
 81. Comment intégrer les comptes personnels GitHub/Lab qui développent
     du libre sur fonds publics dans code.etalab.gouv.fr ?
+
+82. De la même façon qu'il existe des audits de sécurité (faits par
+    des acteurs extérieurs), il pourrait y avoir, pour les projets
+    libres de l'administration, des audits sur l'aspect « libre » et
+    (si pertinent), contributif - en lien aussi avec l'idée de donner
+    des repères avec floss-status.
