@@ -336,3 +336,9 @@
     libres de l'administration, des audits sur l'aspect « libre » et
     (si pertinent), contributif - en lien aussi avec l'idée de donner
     des repères avec floss-status.
+
+83. Organiser un « tchapathon » : Tchap est aujourd'hui très utilisé
+    mais la DINUM elle-même continue d'utiliser Slack pour différents
+    besoins.  Nous pourrions organiser un hackathon interministériel
+    pour échanger des idées ou développer des fonctionnalités autour
+    de Tchap.
