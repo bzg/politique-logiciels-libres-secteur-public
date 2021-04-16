@@ -295,7 +295,9 @@
 
 70. S'inspirer de standards existants (https://digitalpublicgoods.net,
     https://publiccode.net) pour promouvoir certains logiciels libres
-    de l'administrations au rang de communs.
+    de l'administrations, soit pour valoriser les réutilisations au
+    sein de l'administration, soit pour les faire avancer comme
+    communs.
 
 71. Monter un site permettant de récolter les besoins d'évolution de
     logiciels libres utilisés dans l'administration.
@@ -342,3 +344,18 @@
     besoins.  Nous pourrions organiser un hackathon interministériel
     pour échanger des idées ou développer des fonctionnalités autour
     de Tchap.
+
+84. Lister les packages (npm, R, maven, etc.) sur [[https://code.etalab.gouv.fr][code.etalab.gouv.fr]]
+    et indiquer dans les [[https://code.etalab.gouv.fr/fr/deps][dépendances]] lesquelles sont des dépendances
+    produites (et encore maintenues) par l'administration.
+
+85. Produire un guide orienté décideur pour les aider dans leurs
+    décisions d'achat de logiciels libres.  Peut-être un équivalent de
+    "alternative to", possiblement intégré au SILL.
+
+86. Financer des briques open source utilisées dans l'administration,
+    peut-être en priorisant les dépendances identifiées par le projet
+    [[https://backyourstack.com/][backyourstack]] comme nécessitant un financement.
+
+87. Mettre une instance Yunhost à disposition pour tester le
+    déploiement de logiciels libres.
