@@ -395,3 +395,12 @@
 
 98. Valoriser les contributions des agents publics à des logiciels
     libres extérieurs à l'administration.
+
+99. S'inspirer de la mission de [[https://tosit.fr/][TOSIT]] pour détecter des briques libres
+    qui ne sont portées que par un seul éditeur et pour lesquels
+    l'administration doit se tenir prête à maintenir une version
+    libre, si l'éditeur venait à changer la licence du logiciel.
+
+100. Imaginer un canal de subvention pour organiser la maintenance de
+     logiciels libres critiques pour les administrations.  (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][cette
+     proposition]])
