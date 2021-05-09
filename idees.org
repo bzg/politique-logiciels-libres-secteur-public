@@ -359,3 +359,39 @@
 
 87. Mettre une instance Yunhost à disposition pour tester le
     déploiement de logiciels libres.
+
+88. Faire une frise chronologique collaborative mettant en évidence
+    les avancées et les reculs du logiciel libre dans l'administration.
+
+89. Construire un outil de montée en compétence des décideurs sur le
+    logiciel libre basé sur le moteur de pix.fr.
+
+90. Construire un dépôt de code source "exemple", pour souligner tout
+    ce à quoi une administration doit faire attention en publiant des
+    codes sources.
+
+91. Faire connaître la OW2 Good Governance Initiative auprès des
+    administrations pour qu'elles s'approprient la méthodologie et
+    s'appuient dessus pour structurer des missions logiciels libres.
+
+92. Voir s'il est possible pour les administrations de prévoir des
+    budgets pour soutenir des projets libres via [[https://opencollective.com][opencollective.com]].
+
+93. Mettre en place un équivalent du Prototype Fund où administration
+    et acteur militant travaillent ensemble pour financer de nouveaux
+    logiciels libres d'intérêt général.
+
+94. Rapprocher des projets libres de l'administration de
+    [[https://contribulle.org/][contribulle.org]]
+
+95. Permettre de classer les prestataires listés dans le [[https://comptoir-du-libre.org/fr/][Comptoir du
+    libre]] en fonction de leurs contributions à des logiciels libres.
+
+96. Permettre aux enseignants-chercheurs de valoriser leurs
+    contributions aux logiciels libres dans leurs carrières.
+
+97. Sensibiliser les acheteurs au besoin de contribuer aux briques
+    logiciels libres dont leurs achats dépendent indirectement.
+
+98. Valoriser les contributions des agents publics à des logiciels
+    libres extérieurs à l'administration.
