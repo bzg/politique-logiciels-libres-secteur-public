@@ -6,7 +6,7 @@ Ce dépôt réunit des idées que je glâne au fil de mes discussions avec
 différents acteurs sur les différentes façons de renforcer le logiciel
 libre dans et via le secteur public.
 
-Vous pouvez [[file:idees.org][lire les idées ici]].
+Vous pouvez [[file:idees.org][lire les idées ici]] et consulter la [[file:frise.org][frise chronologique]] là.
 
 * Contributions
 
