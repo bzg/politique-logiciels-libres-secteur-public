@@ -406,7 +406,7 @@
     l'administration doit se tenir prête à maintenir une version
     libre, si l'éditeur venait à changer la licence du logiciel.
 
-100.Imaginer un canal de subvention pour organiser la maintenance de
-    logiciels libres critiques pour les administrations.  (Voir [cette
-    proposition](https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1))
+100. Imaginer un canal de subvention pour organiser la maintenance de
+     logiciels libres critiques pour les administrations.  (Voir
+     [cette proposition](https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1))
 
