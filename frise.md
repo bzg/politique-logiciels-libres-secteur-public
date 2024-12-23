@@ -1,7 +1,0 @@
-
-# 2021-04-29: La DINUM annonce qu'elle va créer une mission logiciels libres et communs numériques
-
-<https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/>
-
-![img](images/dinum-mission-logiciels-libres-et-communs-numeriques.png)
-
