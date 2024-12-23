@@ -99,7 +99,7 @@
 27. Encourager la participation de l'État à des organisations
     internationales comme la [[https://www.linuxfoundation.org/][Linux Foundation]] afin d'avoir des droits
     de vote sur des décisions potentiellement impactantes pour les SI
-    du secteur public.  Voir aussi la [[https://www.coreinfrastructure.org/][Core Infrastructure Initiative]]
+    du secteur public. Voir aussi la [[https://www.coreinfrastructure.org/][Core Infrastructure Initiative]]
     pour la consolidation des briques open source essentielles.
 
 28. Développer en open sources des applications clefs pour la
@@ -115,22 +115,22 @@
 
 30. Déployer un "store" à la F-Droid pour toutes les applications du
     secteur public, de façon à ne pas dépendre de Google Play ou de
-    l'AppStore pour leur distribution.  [Voir sur ce sujet la question
+    l'AppStore pour leur distribution. [Voir sur ce sujet la question
     de la distribution de [[https://gitlab.inria.fr/stopcovid19/stopcovid-android/-/issues/20][StopCovid]].]
 
 31. Avoir un outil unique (sous licence libre) pour faire des retours
-    de bug sur tous les sites du secteur public.  Retours publics ou
+    de bug sur tous les sites du secteur public. Retours publics ou
     privés selon les besoins.
 
 32. Permettre au citoyen de faire tourner n'importe quel code source
-    partagé par une administration.  Par exemple, si le ministère des
+    partagé par une administration. Par exemple, si le ministère des
     finances partage le code source des impôts, il faudrait un bouton
     pour pouvoir déployer ce code source facilement et permettre au
     citoyen de le tester sur une instance à part.
 
 33. Généraliser l'utilisation et la publication de /versions/ sur tous
     les applicatifs développés dans le secteur public, et que cette
-    information soit disponible pour le citoyen.  Le tout avec une
+    information soit disponible pour le citoyen. Le tout avec une
     description claire des différences entre les versions.
 
 34. Initier les composants cœur de l’Etat plateforme avec des licences
@@ -162,9 +162,9 @@
 
 39. Flécher des fonds publics (par exemple du plan de relance) vers le
     développement de logiciels libres "d'intérêt public ou
-    industriel".  Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces suggestions]].
+    industriel". Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces suggestions]].
 
-40. [Quid du côté des collectivités territoriales?]  Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces
+40. [Quid du côté des collectivités territoriales?] Via [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/2][ces
     suggestions]].
 
 41. Créer un espace dédié au « code moche », dans l'ESR et/ou dans
@@ -175,7 +175,7 @@
 
 42. Créer des services en ligne renforçant l'utilisation des formats
     recommandés par le RGI, notamment en aidant à la conversion de
-    fichiers d'un format vers un autre.  Un exemple d'un tel service
+    fichiers d'un format vers un autre. Un exemple d'un tel service
     serait une API permettant d'envoyer des fichiers en =.docx= pour
     recevoir en retour une version en =.odt= (voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/3][cette suggestion]].)
 
@@ -192,7 +192,7 @@
     employer le programmeur du logiciel libre ; (3) un modèle de
     subvention faisant secteur public et acteurs du logiciel libre
     pour financer des développeurs travaillant sur des projets libres
-    utilisés dans le secteur public.  (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
+    utilisés dans le secteur public. (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][la proposition]].)
 
 45. Créer des passerelles entre la recherche publique appliquée (en
     informatique) et l'administration, par exemple en permettant à
@@ -203,7 +203,7 @@
 46. Trouver les bonnes façons d'éviter que les bons personnels
     techniques soient promus en mauvais manager : soit en donnant plus
     de perspectives de promotion aux personnels techniques en tant que
-    tels, soit renforçant les formations au management.  Le modèle des
+    tels, soit renforçant les formations au management. Le modèle des
     entreprises techn des États-Unis peut inspirer. (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1#issuecomment-694390022][ce
     commentaire]].)
 
@@ -213,8 +213,8 @@
     open source et visant soit les agents publics (comme Tchap et
     Webconf), soit les métiers et leurs besoins techniques (comme un
     service de forge centralisée, un sentry, un CDN, un service
-    d'envoi de mails et de textos, etc. (Proposition de
-    [[https://github.com/revolunet][J. Bouquillon]].)
+    d'envoi de mails et de textos, etc. (Proposition de [[https://github.com/revolunet][J.
+    Bouquillon]].)
 
 49. Recommander d'ajouter dans les clauses de CCTP l'impératif de
     suivre les standards de bonnes pratiques de développement issus de
@@ -274,7 +274,7 @@
     stratégique.
 
 64. Développer un discours sur le logiciel libre qui ne prête pas le
-    flanc à l'accusation de « discours idéologique ».  Décliner les
+    flanc à l'accusation de « discours idéologique ». Décliner les
     enjeux du « libre » en de multiples valeurs.
 
 65. Faire savoir aux entreprises qu'elles peuvent dire à leur client
@@ -284,8 +284,9 @@
 66. Mettre en place un outil de remontée d'idées (cf. [[https://ideas.digitalocean.com][celui-ci]]) pour
     que les collectivités expriment leurs besoins sur des logiciels
     libres, en attendant que d'autres puissent mutualiser - une façon
-    aussi de garder trace des idées non retenus lors de cet [[https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique][appel de
-    l'incubateur de l'ANCT]].
+    aussi de garder trace des idées non retenus lors de cet
+    [[https://mon.incubateur.anct.gouv.fr/processes/transformation-numerique][appel
+    de l'incubateur de l'ANCT]].
 
 67. Permettre de filtrer les marchés publics selon qu'ils font
     référence ou non à des technologies libres.
@@ -294,7 +295,7 @@
     qu'ils font référence ou non à des technologies libres.
 
 69. Monter une mission logiciels libres s'inspirant des différents
-    Open Source Program Office (voir [[https://github.com/todogroup/ospodefinition.org][définition]] provisoire).  Cette
+    Open Source Program Office (voir [[https://github.com/todogroup/ospodefinition.org][définition]] provisoire). Cette
     mission pourrait s'appuyer sur un réseau interministériel de
     missions ou équivalents.
 
@@ -346,7 +347,7 @@
 
 83. Organiser un « tchapathon » : Tchap est aujourd'hui très utilisé
     mais la DINUM elle-même continue d'utiliser Slack pour différents
-    besoins.  Nous pourrions organiser un hackathon interministériel
+    besoins. Nous pourrions organiser un hackathon interministériel
     pour échanger des idées ou développer des fonctionnalités autour
     de Tchap.
 
@@ -355,7 +356,7 @@
     produites (et encore maintenues) par l'administration.
 
 85. Produire un guide orienté décideur pour les aider dans leurs
-    décisions d'achat de logiciels libres.  Peut-être un équivalent de
+    décisions d'achat de logiciels libres. Peut-être un équivalent de
     "alternative to", possiblement intégré au SILL.
 
 86. Financer des briques open source utilisées dans l'administration,
@@ -408,5 +409,30 @@
     libre, si l'éditeur venait à changer la licence du logiciel.
 
 100. Imaginer un canal de subvention pour organiser la maintenance de
-     logiciels libres critiques pour les administrations.  (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][cette
-     proposition]])
+     logiciels libres critiques pour les administrations. (Voir [[https://github.com/bzg/politique-logiciels-libres-secteur-public/issues/1][cette
+     proposition]]).
+
+101. Proposer une liste des projets libres les plus importants de
+     l'administration, pour s'assurer que chaque agent public connaît
+     ces solutions.
+
+102. Recenser les prix liés aux logiciels libres : le prix
+     « Territoires numériques libres » de l'ADULLACT, les Acteurs du
+     libre, le prix OSOR de la Commission européenne, les prix remis
+     par la FSF, etc.
+
+103. Promouvoir la notion d'Open Source Programme Office et aider à en
+     développer dans toutes les administrations.
+
+104. Rédiger un guide d'organisation d'événements BlueHats à
+     destination de toutes les administrations.
+
+105. Rédiger l'équivalent du « Guide Libre Association » mais pour
+     l'administration.
+
+106. Organiser un BlueHats Summer of Code : permettre à des étudiants
+     de découvrir les logiciels libres en contribuant à des projets
+     pendant des stages rémunérés l'été.
+
+107. Donner de la visibilité aux logiciels libres développés et
+     maintenus par des entreprises françaises.
