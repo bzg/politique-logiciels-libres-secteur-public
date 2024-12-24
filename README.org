@@ -1,12 +1,13 @@
-#+title: Pour une politique d'utilisation et de publication des logiciels libres dans le secteur public
+#+title: Pour une politique « logiciels libres » dans le secteur public
 
-* Espace collectif d'idées
+* Idées pour une politique « logiciels libres » dans le secteur public
 
-Ce dépôt réunit des idées que je glâne au fil de mes discussions avec
-différents acteurs sur les différentes façons de renforcer le logiciel
-libre dans et via le secteur public.
+Ce dépôt rassemble des [[file:idees.org][propositions d'actions]] pour une politique
+« logiciels libres » dans le secteur public, ainsi qu'une [[file:frise.org][frise
+chronologique]] du logiciel libre dans l'administration.
 
-Vous pouvez [[file:idees.org][lire les idées ici]] et consulter la [[file:frise.org][frise chronologique]] là.
+Si vous êtes agent public, vous pouvez aussi consulter le [[https://github.com/bzg/guide-bluehats][guide
+#BlueHats 🧢]].
 
 * Contributions
 
