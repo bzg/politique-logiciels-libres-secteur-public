@@ -1,5 +1,26 @@
-* 2021-04-29: La DINUM annonce qu'elle va créer une mission logiciels libres et communs numériques
+- 1999 : Le sénateur Laffitte propose d'imposer les logiciels libres
+  dans l'administration.
 
-https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/
+- 2002 : Naissance de l'association ADULLACT.
 
-[[file:images/dinum-mission-logiciels-libres-et-communs-numeriques.png]]
+  https://adullact.org/association/historique
+
+- 2012-09-21 : Publication d'une [[https://www.legifrance.gouv.fr/circulaire/id/35837][circulaire]] du Premier ministre
+  Jean-MArc Ayrault : « Orientations pour l'usage des logiciels libres
+  dans l'administration ».
+
+- 2018-11-22 : « Le logiciel libre a besoin d'une vraie stratégie de
+  mutualisation au sein de l'État », interview pour [[https://acteurspublics.fr][acteurs publics]] de
+  Bastien Guerry, nouveau référent logiciels libres de la DINSIC.
+
+  https://bzg.fr/le-logiciel-libre-a-besoin-d-une-vraie-strategie-de-mutualisation-au-sein-de-letat/
+
+- 2021-04-29: La DINUM annonce qu'elle va créer une mission logiciels
+  libres et communs numériques.
+
+  https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/
+
+  # [[file:images/dinum-mission-logiciels-libres-et-communs-numeriques.png]]
+
+- 2021-11-08 : Création et annonce de la mission logiciels libres de
+  la DINUM.
