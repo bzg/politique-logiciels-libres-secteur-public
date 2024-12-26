@@ -15,6 +15,11 @@
 
   https://bzg.fr/le-logiciel-libre-a-besoin-d-une-vraie-strategie-de-mutualisation-au-sein-de-letat/
 
+- 2018-12 : Lancement de la communauté BlueHats, les agents publics
+  libristes.
+
+  https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/
+
 - 2021-04-29: La DINUM annonce qu'elle va créer une mission logiciels
   libres et communs numériques.
 
@@ -24,3 +29,6 @@
 
 - 2021-11-08 : Création et annonce de la mission logiciels libres de
   la DINUM.
+
+- 2023 : Nouvelle feuille de route de la DINUM, avec la création d'une
+  suite collaborative libre.
