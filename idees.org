@@ -342,8 +342,8 @@
 83. Permettre d'afficher les dépôts d'une ou plusieurs organisations à
     partir d'un iframe de code.etalab.gouv.fr.
 
-84. sill.etalab.gouv.fr : se connecter et pouvoir faire une liste de
-    logiciels utilisés et la publier dans une iframe.
+84. code.gouv.fr/sill : en tant qu'utilisateur connecté, faire une
+    liste des logiciels qu'on utilise et la publier dans une iframe.
 
 85. Proposer des icones Github/Lab pour les niveaux d'ouverture
     décrits dans https://guides.etalab.gouv.fr/logiciels/
@@ -367,8 +367,8 @@
     et indiquer dans les [[https://code.etalab.gouv.fr/fr/deps][dépendances]] lesquelles sont des dépendances
     produites (et encore maintenues) par l'administration.
 
-90. Produire un guide orienté décideur pour les aider dans leurs
-    décisions d'achat de logiciels libres. Peut-être un équivalent de
+90. Produire un guide orienté décideur pour les accompagner dans leurs
+    décisions d'achats de logiciels libres. Peut-être un équivalent de
     "alternative to", possiblement intégré au SILL.
 
 91. Financer des briques open source utilisées dans l'administration,
@@ -448,3 +448,7 @@
 
 112. Donner de la visibilité aux logiciels libres développés et
      maintenus par des entreprises françaises.
+
+113. En plus de lister les logiciels libres dont l'administration
+     dépend, le SILL pourrait contenir un indice de criticité afin de
+     prioriser les logiciels auxquels contribuer.
