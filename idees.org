@@ -452,3 +452,6 @@
 113. En plus de lister les logiciels libres dont l'administration
      dépend, le SILL pourrait contenir un indice de criticité afin de
      prioriser les logiciels auxquels contribuer.
+
+114. Favoriser le modèle de la décentralisation/fédération promu dans
+     le libre pour éviter un monopole et augmenter la résilience.
