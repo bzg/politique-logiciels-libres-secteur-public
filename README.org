@@ -1,4 +1,4 @@
-* Idées pour une politique « logiciels libres » dans le secteur public
+* Idées pour une politique logiciels libres dans le secteur public
 
 Ce dépôt rassemble des [[file:idees.org][propositions d'actions]] pour une politique
 « logiciels libres » dans le secteur public, ainsi qu'une [[file:frise.org][frise
