@@ -455,3 +455,8 @@
 
 114. Favoriser le modèle de la décentralisation/fédération promu dans
      le libre pour éviter un monopole et augmenter la résilience.
+
+115. Rédiger un manifeste #BlueHats et rendre le mouvement plus
+     international.
+
+116. Publier une liste des Open Source Programme Offices européens.
