@@ -1,3 +1,5 @@
+[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.global)
+
 * Idées pour une politique logiciels libres dans le secteur public
 
 Ce dépôt rassemble des [[file:idees.org][propositions d'actions]] pour une politique
