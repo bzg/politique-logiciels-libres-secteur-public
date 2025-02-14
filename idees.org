@@ -303,8 +303,9 @@
 72. Permettre de filtrer les marchés publics selon qu'ils font
     référence ou non à des technologies libres.
 
-73. Permettre de filtrer les offres d'emploi du secteur public selon
-    qu'ils font référence ou non à des technologies libres.
+73. Permettre de filtrer les offres d'emploi du secteur public (via [[https://place-ep-recrute.talent-soft.com/handlers/offerRss.ashx?LCID=1036][ce
+    flux RSS]], par exemple) selon qu'ils font référence ou non à des
+    technologies libres.
 
 74. Monter une mission logiciels libres s'inspirant des différents
     Open Source Program Office (voir [[https://github.com/todogroup/ospodefinition.org][définition]] provisoire). Cette
