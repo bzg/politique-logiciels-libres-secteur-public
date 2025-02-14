@@ -461,3 +461,7 @@
      international.
 
 116. Publier une liste des Open Source Programme Offices européens.
+
+117. Traduire en français le guide "Selection Criteria for the
+     Sustainable Procurement of Open Source Software" d'OSBA (voir
+     la [[https://osb-alliance.de/english/selection-criteria-for-the-sustainable-procurement-of-open-source-software-press-release][page web]]).
